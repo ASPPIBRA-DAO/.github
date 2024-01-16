@@ -1,15 +1,13 @@
-## Hi there 👋
+# [QUEM SOMOS](https://www.asppibra.com.br/)
 
-<!--
+![QUEM SOMOS](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/1ede9e64-a1be-41c9-97fc-c98bae83f6df)
 
-**Here are some ideas to get you started:**
+## INTRODUÇÃO:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Somos a ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil. Somos uma associação civil sem fins lucrativos, fundada em 04/09/2016, no Estado do Rio de Janeiro-RJ, formada por profissionais, liberais e cidadãos que desejam contribuir com o desenvolvimento sócio econômico da sociedade moderna. Temos como objetivo defender e representar os interesses dos proprietários e possuidores de imóveis no Brasil. A ASPPIBRA foi fundada visando acelerar a inclusão digital, facilitar o acesso dos cidadãos brasileiros a recursos e serviços por meio de novas tecnologias e tornar a regularização fundiária no Brasil uma realidade para todos, mesmo aqueles que não têm acesso à informação. Conhecendo bem as dificuldades enfrentadas em todo o território nacional, procuramos prestar um suporte de qualidade a todos os cidadãos no que diz respeito à Propriedade Privada, registo imobiliário, licenciamento, acesso à informação e exploração dos recursos naturais de forma sustentável.
+
+- A partir do projeto Mundo Digital, temos como objetivo levar a modernização, a inclusão digital, a segurança financeira, a preservação ambiental e a geração de energia sustentável através da combinação de tecnologias como blockchain e 
+web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo incentivos financeiros para ampliar a produção agropecuária de maneira sustentável e recuperar áreas degradadas. Esta abordagem possibilita a construção de um novo mundo digital que une o meio ambiente e a inovação.
 ## <h2 align="center">🎁 Doe Crypto:</h2>
 
 <div style="display: inline_block"><br>
