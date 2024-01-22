@@ -36,7 +36,7 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
         <img alt="BNB" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/BNB%20.svg">
     </a>
     <a href="https://dexscreener.com/bsc/0x7e407b49206436238306a651d0e7951639a11732">
-        <img alt="CTK" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/cf9f6bed7b3777566b5cacda1d589b62a55a9542/Svg/Certik.svg">
+        <img alt="CTK" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/30d44728c6bc7f33ef019ae9fc31cc92e2bcbb87/Svg/ctk.svg">
     </a>
     <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C">
         <img alt="TWT" height="60" width="80" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/bbd8aa9902df06d875d79ccc17895cb7f5ea0833/Svg/Trust%20Wallet%20Token%20TWT.svg">
