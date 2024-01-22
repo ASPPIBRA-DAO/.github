@@ -29,13 +29,13 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
 ## <h2 align="center">🎁 Doe Crypto:</h2>
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
-    <a href="https://www.youtube.com">
+    <a href="https://pancakeswap.finance/info/pairs/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b">
         <img alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
     </a>
     <a href="https://pancakeswap.finance/info/pairs/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
         <img alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
     </a>
-    <a href="https://www.youtube.com">
+    <a href="https://pancakeswap.finance/info/pairs/0x60825783086bbebbf0c83129e88c69914ad17073">
         <img alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
     </a>
 </div>
