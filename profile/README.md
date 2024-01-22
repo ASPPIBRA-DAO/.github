@@ -32,7 +32,7 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
     <a href="https://www.youtube.com">
         <img alt="BTC" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180482937-475896ac-4853-470f-80da-dae18bcf7748.svg">
     </a>
-    <a href="https://www.youtube.com">
+    <a href="https://pancakeswap.finance/info/pairs/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
         <img alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
     </a>
     <a href="https://www.youtube.com">
