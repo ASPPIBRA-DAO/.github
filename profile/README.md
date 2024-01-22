@@ -36,7 +36,7 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
         <img alt="BNB" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481724-2560053f-dcd3-4879-a63f-5801eb373e66.svg">
     </a>
     <a href="https://pancakeswap.finance/info/pairs/0x60825783086bbebbf0c83129e88c69914ad17073">
-        <img alt="ETH" height="30" width="40" src="https://user-images.githubusercontent.com/80177249/180481896-cf45cdde-72f9-4986-8181-9ee64fae126d.svg">
+        <img alt="ETH" height="30" width="40" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/main/Svg/Trust%20Wallet%20Token%20TWT.svg">
     </a>
 </div>
 
