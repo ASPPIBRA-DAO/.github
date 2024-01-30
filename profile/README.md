@@ -1,6 +1,6 @@
 # [QUEM SOMOS](https://www.asppibra.com.br/)
 
-![QUEM SOMOS](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/assets/80177249/1ede9e64-a1be-41c9-97fc-c98bae83f6df)
+![QUEM SOMOS](https://github.com/ASPPIBRA-DAO/Imagens/blob/b098db9f3f31f4b546db86dcebe507b8ce42cc0c/Svg/ASPPIBRA-DAO.svg)
 
 ## INTRODUÇÃO:
 
