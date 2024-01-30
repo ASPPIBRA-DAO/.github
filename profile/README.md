@@ -43,6 +43,12 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
     <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C">
         <img alt="TWT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/TWT-sbg.svg">
     </a>
+    <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C">
+        <img alt="BSCSCAN" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Bscscan.svg">
+    </a>
+    <a href="https://www.dexview.com/bsc/0x0697AB2B003FD2Cbaea2dF1ef9b404E45bE59d4C">
+        <img alt="COINMARKETCAP" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/9968dd77c223dc881dc3f7bf48e557f9d214b266/Svg/Coinmarktcap.svg">
+    </a>
 </div>
 
 # <h2 align="center">💰 Piscina de Liquidez:</h2>
