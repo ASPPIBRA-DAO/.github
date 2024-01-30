@@ -26,7 +26,9 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
 - [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#fatores-de-riscos-e-desafios)
 - [Termos e Condições Gerais para distribuição de Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs)
 
-## <h2 align="center">📈 Explorando Métricas e Gráficos:</h2>
+# <h2 align="center">📈 Explorando Métricas e Gráficos:</h2>
+
+![ASPPBR TOKEN](https://github.com/ASPPIBRA-DAO/Imagens/blob/beb6e8e8337b8abdbf8de451869f19069403f89c/Svg/ASPPBR-TOKEN.svg)
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
     <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
@@ -43,7 +45,11 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
     </a>
 </div>
 
-## <h2 align="center">💰 Piscina de Liquidez:</h2>
+# <h2 align="center">💰 Piscina de Liquidez:</h2>
+
+
+![POOL ASPPBR TOKEN](https://github.com/ASPPIBRA-DAO/Imagens/blob/beb6e8e8337b8abdbf8de451869f19069403f89c/Svg/LaunchPool-ASPPIBRA.svg)
+
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
     <a href="https://pancakeswap.finance/info/pairs/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b">
