@@ -9,22 +9,24 @@
 - A partir do projeto Mundo Digital, temos como objetivo levar a modernização, a inclusão digital, a segurança financeira, a preservação ambiental e a geração de energia sustentável através da combinação de tecnologias como blockchain e 
 web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo incentivos financeiros para ampliar a produção agropecuária de maneira sustentável e recuperar áreas degradadas. Esta abordagem possibilita a construção de um novo mundo digital que une o meio ambiente e a inovação.
 
+| Tópico                                                | Link                                                                                                     |
+|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| [Apresentação](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/APRESENTA%C3%87%C3%83O.md)              | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/APRESENTA%C3%87%C3%83O.md)                  |
+| [Quem Somos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#quem-somos)               | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#quem-somos)                 |
+| [Problemas](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PROBLEMAS.md#problemas)                    | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PROBLEMAS.md#problemas)                      |
+| [Soluções](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/SOLU%C3%87%C3%95ES.md#solu%C3%A7%C3%B5es)   | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/SOLU%C3%87%C3%95ES.md#solu%C3%A7%C3%B5es)     |
+| [Tokenomics](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#tokenomics)          | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#tokenomics)            |
+| [Tecnologia e Arquitetura](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TECNOLOGIA%20E%20ARQUITETURA.md#tecnologia-e-arquitetura) | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TECNOLOGIA%20E%20ARQUITETURA.md#tecnologia-e-arquitetura) |
+| [Governança e Consenso](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/GOVERNAN%C3%87A%20E%20CONSENSO.md#governan%C3%A7a-e-consenso) | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/GOVERNAN%C3%87A%20E%20CONSENSO.md#governan%C3%A7a-e-consenso) |
+| [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md#road-map)                 | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md#road-map)                       |
+| [Equipe](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)                                | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)                               |
+| [Planos e Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PLANOS%20E%20PARCERIAS.md#planos-e-parcerias) | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PLANOS%20E%20PARCERIAS.md#planos-e-parcerias) |
+| [Distribuição dos Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#distribui%C3%A7%C3%A3o-dos-tokens) | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#distribui%C3%A7%C3%A3o-dos-tokens) |
+| [Alocação de Fundos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#aloca%C3%A7%C3%A3o-de-fundos) | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#aloca%C3%A7%C3%A3o-de-fundos) |
+| [Conformidade Legal e Regulamentar](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#t%C3%ADtulo-vii--da-ordem-econ%C3%B4mica-e-financeira) | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#t%C3%ADtulo-vii--da-ordem-econ%C3%B4mica-e-financeira) |
+| [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#fatores-de-riscos-e-desafios) | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#fatores-de-riscos-e-desafios) |
+| [Termos e Condições Gerais para distribuição de Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs) | [Link](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs) |
 
-- [Apresentação](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/APRESENTA%C3%87%C3%83O.md)
-- [Quem Somos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#quem-somos)
-- [Problemas](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PROBLEMAS.md#problemas)
-- [Soluçôes](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/SOLU%C3%87%C3%95ES.md#solu%C3%A7%C3%B5es)
-- [Tokenomics](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#tokenomics)
-- [Tecnologia e Arquitetura](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TECNOLOGIA%20E%20ARQUITETURA.md#tecnologia-e-arquitetura)
-- [Governança e Consenso](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/GOVERNAN%C3%87A%20E%20CONSENSO.md#governan%C3%A7a-e-consenso)
-- [Roteiro e marcos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/ROADMAP.md#road-map)
-- [Equipe](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)
-- [Planos e Parcerias](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/PLANOS%20E%20PARCERIAS.md#planos-e-parcerias)
-- [Distribuição dos Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#distribui%C3%A7%C3%A3o-dos-tokens)
-- [Alocação de Fundos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TOKEN/TOKENOMICS.md#aloca%C3%A7%C3%A3o-de-fundos)
-- [Conformidade Legal e Regulamentar](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#t%C3%ADtulo-vii--da-ordem-econ%C3%B4mica-e-financeira)
-- [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#fatores-de-riscos-e-desafios)
-- [Termos e Condições Gerais para distribuição de Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs)
 
 # <h2 align="center">📈 Explorando Métricas e Gráficos:</h2>
 
