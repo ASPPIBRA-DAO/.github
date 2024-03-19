@@ -39,7 +39,7 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
     <a href="https://www.coinscan.com/pt/tokens/bsc/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b#swap">
         <img alt="USDT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/USDT-sbg.svg">
     </a>
-    <a href="https://apespace.io/bsc/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
+    <a href="https://www.coinscan.com/pt/tokens/bsc/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
         <img alt="BNB" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/BNB-sbg.svg">
     </a>
     <a href="https://dexscreener.com/bsc/0x7e407b49206436238306a651d0e7951639a11732">
