@@ -69,11 +69,16 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
     <a href="https://pancakeswap.finance/info/pairs/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
         <img alt="BNB" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/BNB-sbg.svg">
     </a>
+    <a href="https://pancakeswap.finance/info/pairs/0x3dac89c0c868eb9f835d97e1fdb702b6fd6ae38e">
+        <img alt="CTK" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/CTK-sbg.svg">
+    </a>
     <a href="https://pancakeswap.finance/info/pairs/0x60825783086bbebbf0c83129e88c69914ad17073">
         <img alt="TWT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/TWT-sbg.svg">
     </a>
+    <a href="https://pancakeswap.finance/info/pairs/0x25af0ac22fdc2a408ef07fcb795c516b3a0f3858">
+        <img alt="FIL" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/0720eb1bc7f96cc535c56dc8a47ea63336dcf0a8/Png/filecoin.png">
+    </a>
 </div>
-
 
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
