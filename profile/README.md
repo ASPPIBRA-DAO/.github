@@ -36,7 +36,7 @@ web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo ince
 ![ASPPBR TOKEN](https://github.com/ASPPIBRA-DAO/Imagens/blob/beb6e8e8337b8abdbf8de451869f19069403f89c/Svg/ASPPBR-TOKEN.svg)
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 10px;">
-    <a href="https://apespace.io/bsc/0x0697ab2b003fd2cbaea2df1ef9b404e45be59d4c">
+    <a href="https://www.coinscan.com/pt/tokens/bsc/0x4f287dd8b2b02aa8885ab9c6ddce876d1031268b#swap">
         <img alt="USDT" height="40" width="60" src="https://github.com/ASPPIBRA-DAO/Imagens/blob/3e3ba015a9a04f30850469335ff000281593863f/Svg/USDT-sbg.svg">
     </a>
     <a href="https://apespace.io/bsc/0xb9a2b08be15dc15e531b0d25b3942268da27b100">
