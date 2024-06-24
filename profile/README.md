@@ -2,12 +2,38 @@
 
 ![QUEM SOMOS](https://github.com/ASPPIBRA-DAO/Imagens/blob/b098db9f3f31f4b546db86dcebe507b8ce42cc0c/Svg/ASPPIBRA-DAO.svg)
 
-## INTRODUÇÃO:
+# ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil
 
-- Somos a ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil. Somos uma associação civil sem fins lucrativos, fundada em 04/09/2016, no Estado do Rio de Janeiro-RJ, formada por profissionais, liberais e cidadãos que desejam contribuir com o desenvolvimento sócio econômico da sociedade moderna. Temos como objetivo defender e representar os interesses dos proprietários e possuidores de imóveis no Brasil. A ASPPIBRA foi fundada visando acelerar a inclusão digital, facilitar o acesso dos cidadãos brasileiros a recursos e serviços por meio de novas tecnologias e tornar a regularização fundiária no Brasil uma realidade para todos, mesmo aqueles que não têm acesso à informação. Conhecendo bem as dificuldades enfrentadas em todo o território nacional, procuramos prestar um suporte de qualidade a todos os cidadãos no que diz respeito à Propriedade Privada, registo imobiliário, licenciamento, acesso à informação e exploração dos recursos naturais de forma sustentável.
+## Quem Somos
 
-- A partir do projeto Mundo Digital, temos como objetivo levar a modernização, a inclusão digital, a segurança financeira, a preservação ambiental e a geração de energia sustentável através da combinação de tecnologias como blockchain e 
-web 3. Com isso, queremos acelerar a regularização fundiária, oferecendo incentivos financeiros para ampliar a produção agropecuária de maneira sustentável e recuperar áreas degradadas. Esta abordagem possibilita a construção de um novo mundo digital que une o meio ambiente e a inovação.
+A **ASPPIBRA** - Associação dos Proprietários e Possuidores de Imóveis no Brasil é uma associação civil sem fins lucrativos, fundada em 09/04/2016, no Estado do Rio de Janeiro-RJ. Compõe-se de profissionais e cidadãos comprometidos com o desenvolvimento tecnológico e socioeconômico da sociedade moderna. Nossa atuação visa defender e representar os interesses dos cidadãos, especialmente os proprietários e possuidores de imóveis em todo o Brasil.
+
+## Missão
+
+Promover a inclusão digital, facilitar o acesso dos cidadãos a recursos financeiros e serviços descentralizados por meio de tecnologias emergentes como blockchain, DeFi e tokenização, tornando a escrituração imobiliária acessível a todos os brasileiros, independentemente de seu acesso prévio à informação.
+
+## Visão
+
+Ser referência na aceleração da tokenização imobiliária no Brasil, integrando tecnologias de ponta para promover um desenvolvimento econômico sustentável e inclusivo, respeitando os direitos de propriedade privada e a conservação ambiental.
+
+## Objetivos
+
+1. **Escrituração e Digitalização do Registro Imobiliário**: Utilizar tecnologias como blockchain para simplificar e agilizar os processos de registro imobiliário, garantindo segurança jurídica e facilitando o acesso à propriedade.
+  
+2. **Inclusão Digital e Segurança Financeira**: Capacitar comunidades e indivíduos para participar da economia digital de forma segura e inclusiva, promovendo oportunidades econômicas equitativas.
+  
+3. **Preservação Ambiental e Energia Sustentável**: Promover práticas agrícolas e pecuárias sustentáveis, recuperar áreas degradadas e fomentar a geração de energia renovável, contribuindo para a preservação ambiental e a mitigação das mudanças climáticas.
+
+## Soluções
+
+Através do aplicativo **Mundo Digital**, a ASPPIBRA busca:
+
+- Modernizar o setor imobiliário através da integração de tecnologias como blockchain e web 3, aumentando a eficiência dos processos e reduzindo custos operacionais.
+- Facilitar o acesso à informação sobre propriedade privada, registro imobiliário, licenciamento e exploração sustentável dos recursos naturais.
+- Estimular investimentos financeiros para fortalecer pequenos e grandes negócios dentro das cidades, bem como ampliar o setor rural agropecuário de maneira sustentável. Incentivar a recuperação de áreas degradadas utilizando incentivos como a geração de créditos de carbono, explorar os recursos naturais das propriedades e promover a geração de energia através de matrizes energéticas renováveis, contribuindo assim para o desenvolvimento econômico local.
+
+Juntos, estamos construindo um ecossistema digital onde inovação e sustentabilidade convergem para criar um ambiente econômico e social mais justo e próspero para todos os brasileiros.
+
 
 ### Documentação
 
