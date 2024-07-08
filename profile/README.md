@@ -1,6 +1,6 @@
 # [QUEM SOMOS](https://www.asppibra.com.br/)
 
-![QUEM SOMOS](https://github.com/ASPPIBRA-DAO/Imagens/blob/b098db9f3f31f4b546db86dcebe507b8ce42cc0c/Svg/ASPPIBRA-DAO.svg)
+![QUEM SOMOS](https://github.com/ASPPIBRA-DAO/Imagens/blob/ab58cdf4e9a689073575bc367b110bf0580f4182/Svg/ASPPIBRA-DAO%20(2).svg)
 
 # ASPPIBRA - Associação dos Proprietários e Possuidores de Imóveis no Brasil
 
