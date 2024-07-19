@@ -45,15 +45,15 @@ Juntos, estamos construindo um ecossistema digital onde inovação e sustentabil
 | [Soluções](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/SOLU%C3%87%C3%95ES.md#solu%C3%A7%C3%B5es)         | Propostas de soluções para os problemas apresentados                                                          |
 | [Tokenomics](https://www.asppibra.com.br/tokenomics)               | Detalhes sobre a economia e distribuição do token                                                             |
 | [Tecnologia e Arquitetura](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TECNOLOGIA%20E%20ARQUITETURA.md#tecnologia-e-arquitetura) | Descrição da tecnologia e arquitetura utilizadas no projeto                                             |
-| [Governança e Consenso](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/GOVERNAN%C3%87A%20E%20CONSENSO.md#governan%C3%A7a-e-consenso) | Mecanismos de governança e consenso dentro da organização                                      |
+| [Governança e Consenso](https://www.asppibra.com.br/quem-somos/governanca-e-consenso) | Mecanismos de governança e consenso dentro da organização                                      |
 | [Roteiro e marcos](https://www.asppibra.com.br/roadmap)                      | Planejamento futuro e marcos importantes para o desenvolvimento do projeto                                  |
-| [Equipe](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/DIRETORIA.md)                                      | Informações sobre os membros da equipe e diretoria                                                            |
+| [Equipe](https://www.asppibra.com.br/quem-somos/diretoria)                                      | Informações sobre os membros da equipe e diretoria                                                            |
 | [Planos e Parcerias](https://www.asppibra.com.br/planos-e-parcerias) | Estratégias, planos e parcerias estabelecidas pela organização                                    |
 | [Distribuição dos Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO-TOKEN#distribui%C3%A7%C3%A3o-dos-tokens) | Detalhes sobre a distribuição dos tokens                                                                |
 | [Alocação de Fundos](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO-TOKEN#aloca%C3%A7%C3%A3o-de-fundos) | Como os fundos são alocados e utilizados no projeto                                               |
 | [Conformidade Legal e Regulamentar](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/QUEM%20SOMOS.md#t%C3%ADtulo-vii--da-ordem-econ%C3%B4mica-e-financeira) | Informações sobre a conformidade legal e regulamentar do projeto                           |
 | [Fatores de risco e desafios](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#fatores-de-riscos-e-desafios) | Identificação dos principais riscos e desafios do projeto                                       |
-| [Termos e Condições Gerais para distribuição de Tokens](https://github.com/ASPPIBRA-DAO/ASPPIBRA-DAO/blob/main/TERMOS%20E%20CONDI%C3%87%C3%95ES%20GERAIS.md#termos-e-condi%C3%A7%C3%B5es-gerais-tcgs) | Regras e condições gerais para a distribuição de tokens                                       |
+| [Termos e Condições Gerais para distribuição de Tokens](https://www.asppibra.com.br/quem-somos/tcgs-termos-e-condicoes-gerais) | Regras e condições gerais para a distribuição de tokens                                       |
 
 
 
